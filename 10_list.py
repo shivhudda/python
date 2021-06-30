@@ -32,3 +32,9 @@ print(l3[0:10:2])
 print(l3[3:7:3])
 print(l3[::2])
 print (l3)
+
+# tuple in python
+a=()    # It's an example of empty tuple
+tup1 = (1,)  #tuple with single value i.e. 1
+tup1 = (1,2,3,4,5)
+tup1 = ('demo',34,'main',True)
