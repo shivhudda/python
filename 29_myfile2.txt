@@ -1,0 +1,12 @@
+As we now have an idea of what files(text or binary) are and 
+their access modes, we are now ready to dive into the discussion of file handling 
+methods. When we want to read or write a file (say on our hard drive), 
+we must first open the file. When we open a file, we are asking the operating 
+system to find the file by name, making sure the file exists.
+shivhudda is a programmer.
+shivhudda is a programmer.
+shivhudda is a programmer.
+shivhudda is a programmer.
+shivhudda is a programmer.
+shivhudda is a programmer.
+shivhudda is a programmer.

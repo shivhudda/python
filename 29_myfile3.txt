@@ -1,0 +1,4 @@
+As we now have an idea of what files(text or binary) are and 
+their access modes, we are now ready to dive into the discussion of file handling 
+methods.
+so let's starting to learn file io.
